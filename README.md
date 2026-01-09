@@ -12,3 +12,10 @@ Developing highly optimized algorithmic solutions to power the next generation o
 ## 📂 Structure
 - `Java/`: LeetCode & Competitive Programming solutions.
 - `Math/`: Implementation of Linear Algebra & Vector calculus for AI.
+
+  ## Learning Approach
+- Pattern-first DSA learning
+- Daily challenges tracked separately
+- Focus on optimal O(n) solutions
+- Emphasis on problem-solving logic over brute force
+
